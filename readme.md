@@ -1,1 +1,5 @@
- i am usingthis is used for learning devops
+#!/bin/bash
+
+
+echo "my name is Seid"
+
